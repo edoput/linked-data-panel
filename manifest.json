@@ -1,0 +1,16 @@
+{
+    "description": "Show page linked data in developer tools",
+    "manifest_version": 2,
+    "name": "linked-data",
+    "version": "0.0",
+    "author": "Edoardo Putti",
+    "homepage_url": "https://github.com/edoput/linked-data",
+    "icons" : {},
+    "background": {
+	"scripts": ["background_scripts/background.js"]
+    },
+    "permissions": [
+	"<all_urls>"
+    ],
+    "devtools_page": "devtools/devtools-page.html"
+}
