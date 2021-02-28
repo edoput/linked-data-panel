@@ -4,7 +4,7 @@
     "name": "linked-data",
     "version": "0.0",
     "author": "Edoardo Putti",
-    "homepage_url": "https://github.com/edoput/linked-data",
+    "homepage_url": "https://github.com/edoput/linked-data-panel",
     "icons" : {},
     "background": {
 	"scripts": ["background_scripts/background.js"]
